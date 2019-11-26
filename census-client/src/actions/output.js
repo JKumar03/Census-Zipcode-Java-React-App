@@ -1,0 +1,3 @@
+export const OUTPUT = {
+  UPDATE_OUTPUT: 'OUTPUT_UPDATE_OUTPUT',
+}
